@@ -1,0 +1,6 @@
+16/12/2025 09:42:27 TRANSACT Error: DEMO00001               -->08
+CCITC32-0032E CCI_Transact was unable to send data due to transport errors.
+16/12/2025 09:42:27 DEMO00001 stopping: CCI error
+16/12/2025 09:45:21 RECEIVEALL Error: DEMO00002             -->08
+CCITC32-0008E A response failure has been detected on the given connection.
+16/12/2025 09:45:21 DEMO00002 stopping: CCI error
