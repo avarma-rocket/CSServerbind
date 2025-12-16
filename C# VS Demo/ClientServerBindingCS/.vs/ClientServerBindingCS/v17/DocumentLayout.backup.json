@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4EF554-E155-409D-9618-3D6659D8AADD}|Client\\Client.cblproj|C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\client\\client.cbl||{8B32D3C3-DE93-4189-A718-190E63FEED23}",
+      "RelativeMoniker": "D:0:0:{2E4EF554-E155-409D-9618-3D6659D8AADD}|Client\\Client.cblproj|solutionrelative:client\\client.cbl||{8B32D3C3-DE93-4189-A718-190E63FEED23}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA91A18A-B85A-49C7-8407-7C6174068212}|NativeCobolClient\\NativeCobolClient.cblproj|c:\\users\\avarma\\documents\\customers\\access 2025\\c# vs demo\\clientserverbindingcs\\nativecobolclient\\nativecobolclient.cbl||{8B32D3C3-DE93-4189-A718-190E63FEED23}",
+      "RelativeMoniker": "D:0:0:{DA91A18A-B85A-49C7-8407-7C6174068212}|NativeCobolClient\\NativeCobolClient.cblproj|solutionrelative:nativecobolclient\\nativecobolclient.cbl||{8B32D3C3-DE93-4189-A718-190E63FEED23}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NativeCobolClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\clientfrontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|solutionrelative:clientfrontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\clientfrontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|solutionrelative:clientfrontend\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Client||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\clientfrontend\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|solutionrelative:clientfrontend\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\clientfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6855D1-7446-4E97-85D1-6B1F99F252C6}|ClientFrontEnd\\ClientFrontEnd.csproj|solutionrelative:clientfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA91A18A-B85A-49C7-8407-7C6174068212}|NativeCobolClient\\NativeCobolClient.cblproj|c:\\users\\avarma\\documents\\customers\\access 2025\\c# vs demo\\clientserverbindingcs\\nativecobolclient\\nativecobolclient.cblproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|13ed21e5-d745-4a18-9868-a5424d51f2f8",
+      "RelativeMoniker": "D:0:0:{DA91A18A-B85A-49C7-8407-7C6174068212}|NativeCobolClient\\NativeCobolClient.cblproj|solutionrelative:nativecobolclient\\nativecobolclient.cblproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|13ed21e5-d745-4a18-9868-a5424d51f2f8"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cbl",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\Client\\Client.cbl",
+              "RelativeDocumentMoniker": "Client\\Client.cbl",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\Client\\Client.cbl",
+              "RelativeToolTip": "Client\\Client.cbl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB/SURBVDhPY6AI/P//nxFEOzk5/QcL4AD79u0Dq8MJQAb8/PUHK05JSfmPzwImKM3w5x9CDTJbSUkJjHEZAjcABEAaYZphbDExMYKGgCW\u002B/vhNEGMzAMUF5ACiDfjxC7vr6ecCXGA4GQAKZXz4/de/UJWogKjMhAwIZizSAAMDAPEeg5qug/XxAAAAAElFTkSuQmCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-12-08T11:42:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Form1.cs",
+              "RelativeDocumentMoniker": "ClientFrontEnd\\Form1.cs",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Form1.cs",
+              "RelativeToolTip": "ClientFrontEnd\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:34:27.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NativeCobolClient.cbl",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\NativeCobolClient\\NativeCobolClient.cbl",
+              "RelativeDocumentMoniker": "NativeCobolClient\\NativeCobolClient.cbl",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\NativeCobolClient\\NativeCobolClient.cbl",
+              "RelativeToolTip": "NativeCobolClient\\NativeCobolClient.cbl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB/SURBVDhPY6AI/P//nxFEOzk5/QcL4AD79u0Dq8MJQAb8/PUHK05JSfmPzwImKM3w5x9CDTJbSUkJjHEZAjcABEAaYZphbDExMYKGgCW\u002B/vhNEGMzAMUF5ACiDfjxC7vr6ecCXGA4GQAKZXz4/de/UJWogKjMhAwIZizSAAMDAPEeg5qug/XxAAAAAElFTkSuQmCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-12-08T14:11:07.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClientFrontEnd\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Form1.Designer.cs",
+              "RelativeToolTip": "ClientFrontEnd\\Form1.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvw4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:05:08.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Form1.cs",
+              "RelativeDocumentMoniker": "ClientFrontEnd\\Form1.cs",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Form1.cs [Design]",
+              "RelativeToolTip": "ClientFrontEnd\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:34:53.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ClientFrontEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\ClientFrontEnd\\Program.cs",
+              "RelativeToolTip": "ClientFrontEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:52:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NativeCobolClient",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\NativeCobolClient\\NativeCobolClient.cblproj",
+              "RelativeDocumentMoniker": "NativeCobolClient\\NativeCobolClient.cblproj",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\NativeCobolClient\\NativeCobolClient.cblproj",
+              "RelativeToolTip": "NativeCobolClient\\NativeCobolClient.cblproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-08T14:51:46.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\Client\\Client.cblproj",
+              "RelativeDocumentMoniker": "Client\\Client.cblproj",
+              "ToolTip": "C:\\Users\\avarma\\Documents\\Customers\\Access 2025\\C# VS Demo\\ClientServerBindingCS\\Client\\Client.cblproj",
+              "RelativeToolTip": "Client\\Client.cblproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-08T14:55:17.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

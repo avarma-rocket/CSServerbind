@@ -1,0 +1,5 @@
+C:\Users\avarma\Documents\Customers\Access 2025\C# VS Demo\ClientServerBindingCS\NativeCobolClient\bin\x86\Debug\NativeCobolClient.idy
+C:\Users\avarma\Documents\Customers\Access 2025\C# VS Demo\ClientServerBindingCS\NativeCobolClient\bin\x86\Debug\NATIVECOBOLCLIENT.DLL
+C:\Users\avarma\Documents\Customers\Access 2025\C# VS Demo\ClientServerBindingCS\NativeCobolClient\obj\x86\Debug\NativeCobolClient.dll
+C:\Users\avarma\Documents\Customers\Access 2025\C# VS Demo\ClientServerBindingCS\NativeCobolClient\obj\x86\Debug\NativeCobolClient.idy
+C:\Users\avarma\Documents\Customers\Access 2025\C# VS Demo\ClientServerBindingCS\NativeCobolClient\obj\x86\Debug\NativeCobolClient.obj
